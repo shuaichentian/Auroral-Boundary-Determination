@@ -27,4 +27,4 @@ The confidence map obtained from Pre-trained CNN.<br>
 <div align="center"><img width="150" height="170" src="https://github.com/shuaichentian/Auroral-Boundary-Determination/blob/master/Pre-trained%20CNN_PYTHON/Confidence%20map/1997010_034012_confidence%20map.bmp"/></div>
 
 The boundary determination process
-<div align="center"><img width="500" height="260" src="https://github.com/shuaichentian/Auroral-Boundary-Determination/blob/master/Extract%20auroral%20boundary_MATLAB/ectract_boundary.gif"/></div>
+<div align="center"><img width="390" height="260" src="https://github.com/shuaichentian/Auroral-Boundary-Determination/blob/master/Extract%20auroral%20boundary_MATLAB/ectract_boundary.gif"/></div>
