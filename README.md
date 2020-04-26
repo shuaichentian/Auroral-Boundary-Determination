@@ -21,6 +21,6 @@ Run the following command to extract the auroral boundaries from UVI images.
 matlab DemoUVI_tian1.m
 ```
 
-##Demo result
+## Demo result
 The confidence map obtained from Pre-trained CNN.
-![image]
+![image](https://github.com/shuaichentian/Auroral-Boundary-Determination/blob/master/Pre-trained%20CNN_PYTHON/Confidence%20map/1997010_034012_confidence%20map.bmp)
