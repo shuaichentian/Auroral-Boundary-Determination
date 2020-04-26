@@ -24,4 +24,6 @@ matlab DemoUVI_tian1.m
 ## Demo result
 The confidence map obtained from Pre-trained CNN.<br>
 
-<img align="center" src="https://github.com/shuaichentian/Auroral-Boundary-Determination/blob/master/Pre-trained%20CNN_PYTHON/Confidence%20map/1997010_034012_confidence%20map.bmp"/>
+<div align="center"><img width="150" height="170" src="https://github.com/shuaichentian/Auroral-Boundary-Determination/blob/master/Pre-trained%20CNN_PYTHON/Confidence%20map/1997010_034012_confidence%20map.bmp"/></div>
+
+
