@@ -7,7 +7,7 @@ This project is used to extract the auroral boundaries from UVI images captured 
 >Packages for Python:
 >>OpenCV 3.4.4;   
 >>tensorflow 1.12.2;    
->>keras 2.2.4);
+>>keras 2.2.4;
 2. Matlab
 
 ## Quick start
