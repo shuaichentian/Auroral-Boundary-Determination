@@ -30,4 +30,4 @@ The boundary determination process.
 <div align="center"><img width="330" height="250" src="https://github.com/shuaichentian/Auroral-Boundary-Determination/blob/master/Extract%20auroral%20boundary_MATLAB/ectract_boundary.gif"/></div>
 
 ## Explanation
-The code for "Extract aurora boundary_MATLAB" will be uploaded after the corresponding paper is published.
+The code for "Extract auroral boundary_MATLAB" will be uploaded after the corresponding paper is published.
