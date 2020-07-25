@@ -13,7 +13,10 @@ If you intend to use the code below in your work, please cite the paper as "..."
 2. Matlab2018
 
 ## Quick start
-Run the following command to obtain the confidence map for corresponding UVI images. (The `pre-trained_CNN_model.h5` contains the pre-trained model and weight parameters )
+>The folder `Pre-trained CNN_PYTHON` contains the code for extracting the confidence map (see the paper for more details).
+>>The subfolder `Image_test` is used to store the UVI images.
+>>The subfolder `Confidence map` is used to store the extracted confidence map corresponding to the UVI images in `Image_test`. 
+  Run the following command to obtain the confidence map for corresponding UVI images. (The `pre-trained_CNN_model.h5` contains the pre-trained model and weight parameters )
 
 ```
 python model_load.py
