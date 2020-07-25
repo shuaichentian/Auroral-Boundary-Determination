@@ -22,7 +22,7 @@ If you intend to use the code below in your work, please cite the paper as "..."
 ```
 python model_load.py
 ```
->The folder `Pre-trained CNN_PYTHON` contains the code for segmenting the auroral oval from UVI images.  
+>The folder `Extract auroral boundary_MATLAB` contains the code for segmenting the auroral oval from UVI images.  
 >>The subfolder `Image_test` contains the UVI images.  
 >>The subfolder `Confidence map` contains the confidence map you obtained from previous step.  
 >>The subfolder `ini` contains the initialization image for inner and outer zero level set curves.  
