@@ -3,7 +3,7 @@ close all;
 fileFolder=fullfile('./Image_test');
 dirOutput=dir(fullfile(fileFolder,'*.bmp'));
 filename={dirOutput.name};
-fileFolder1='./Confidence_map';
+fileFolder1='./Confidence map';
 dirOutput=dir(fullfile(fileFolder1,'*.bmp'));
 filename1={dirOutput.name};
 
@@ -29,7 +29,7 @@ for i=1:a
     fMaxDist = m * n;
     phi1 = -sdf_mex(single(flag1),single(fMaxDist),int32(1),int32(1));
     phi2 = sdf_mex(single(flag2),single(fMaxDist),int32(1),int32(1));
-    loadimg=['Confidence_map/' imageDate '.bmp'];
+    loadimg=['Confidence map/' imageDate '.bmp'];
     img_log=imread(loadimg);
     img_log1=img_log;
     img_log = double(img_log);
@@ -73,7 +73,7 @@ for i=1:a
     tic;
     for i = 1 : 560
     
-    %显示水平集的演化状况
+    %鏄剧ず姘村钩闆嗙殑婕斿寲鐘跺喌
     if mod(i-1, 10) == 0      
             figure(3);
             imagesc(image_o,[0, 255]); axis off; axis equal; colormap(gray);
@@ -97,7 +97,7 @@ for i=1:a
 
     [phi1, phi2] = evolution2(i,phi1, phi2, Img,img_log, mask, rad, alpha, beta, gama, lamda, lamda2, sigma, deltaT, epsilon);
 
-    %显示轮廓曲线
+    %鏄剧ず杞粨鏇茬嚎
     end
     toc;
     
