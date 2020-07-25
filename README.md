@@ -1,5 +1,7 @@
 # Auroral-Boundary-Determination
-This project is used to extract the auroral boundaries from UVI images captured by Polar spacecraft. The corresponding work has been submitted to JGR-Space Physics, and the paper name is "Automatic Auroral Boundary Determination Algorithm with Deep Feature and Dual Level Set." Please cite the paper as "..." (The paper has not yet been accepted currently).
+This project is used to extract the auroral boundaries from UVI images captured by Polar spacecraft. The corresponding work has been submitted to JGR-Space Physics, and the paper name is "Automatic Auroral Boundary Determination Algorithm with Deep Feature and Dual Level Set." 
+
+If you intend to use the code below in your work, please cite the paper as "..." (The paper has not yet been accepted currently).
 
 ## Software we used to run the code
 
