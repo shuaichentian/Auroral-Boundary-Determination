@@ -24,7 +24,7 @@ python model_load.py
 ```
 >The folder `Extract auroral boundary_MATLAB` contains the code for segmenting the auroral oval from UVI images.  
 >>The subfolder `Image_test` contains the UVI images.  
->>The subfolder `Confidence map` contains the confidence map you obtained from previous step.  
+>>The subfolder `Confidence map` contains the confidence map you obtained from previous step (LLSRHT result).  
 >>The subfolder `ini` contains the initialization image for inner and outer zero level set curves.  
 >>The subfolder `segmentation_result` is used to store the extracted auroral oval image (`.bmp` format) and the boundaries position (`.mat` format).  
 >>Run the following command to extract the auroral boundaries from UVI images.  
